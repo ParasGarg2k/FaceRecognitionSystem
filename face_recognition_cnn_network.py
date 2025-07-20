@@ -1,5 +1,3 @@
-
-
 #Importing the sklearn face of celbrity dataset
 from sklearn.datasets import fetch_lfw_people
 faces = fetch_lfw_people(min_faces_per_person=50)
