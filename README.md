@@ -25,6 +25,7 @@ The CNN model consists of the following layers:
 * Dense fully connected layers with LeakyReLU activations
 * Final Dense layer with `softmax` activation for classification
 
+![Model Architecture](images/arch.png)
 ---
 
 ## Training
@@ -36,10 +37,6 @@ The CNN model consists of the following layers:
 ---
 
 ## Results & Visualizations
-
-### Model Architecture
-
-![Model Architecture](images/arch.png)
 
 ### Training and Validation Loss & Accuracy
 
