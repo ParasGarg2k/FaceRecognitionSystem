@@ -11,6 +11,7 @@ from tensorflow.keras import layers
 from keras.models import Sequential
 from keras.layers import Dense, add, Activation, MaxPooling2D, Conv2D, Flatten, Dropout
 from keras.layers.advanced_activations import LeakyReLU
+
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
 import numpy as np
