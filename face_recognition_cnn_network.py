@@ -20,7 +20,7 @@ import visualkeras
 import cv2
 from google.colab.patches import cv2_imshow
 
-# %matplotlib inline
+
 
 #Verify the name of the celebrity and the shape of the input image
 print(faces.target_names)
