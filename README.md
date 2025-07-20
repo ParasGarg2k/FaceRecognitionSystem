@@ -54,7 +54,7 @@ The CNN model consists of the following layers:
 
 ## Dependencies
 
-* Python 3.x
+* Python 
 * TensorFlow / Keras
 * scikit-learn
 * numpy

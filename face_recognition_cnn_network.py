@@ -1,5 +1,3 @@
-
-
 #Importing the sklearn face of celbrity dataset
 from sklearn.datasets import fetch_lfw_people
 faces = fetch_lfw_people(min_faces_per_person=50)
@@ -22,7 +20,7 @@ import visualkeras
 import cv2
 from google.colab.patches import cv2_imshow
 
-# %matplotlib inline
+
 
 #Verify the name of the celebrity and the shape of the input image
 print(faces.target_names)
